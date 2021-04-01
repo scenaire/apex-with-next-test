@@ -1,7 +1,7 @@
 const Front = () => {
     return ( 
         <div>
-            <p>front</p>
+            <p>front end</p>
         </div>
      );
 }
