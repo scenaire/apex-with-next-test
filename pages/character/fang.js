@@ -1,7 +1,7 @@
 const Fang = () => {
     return ( 
         <div>
-            <h1>Hi there My name is key</h1>
+            <h1>Hello fang</h1>
         </div>
      );
 }
