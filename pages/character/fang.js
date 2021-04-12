@@ -1,7 +1,7 @@
 const Fang = () => {
     return ( 
         <div>
-            <h1>Hello fang</h1>
+            <h1>Hello fang hi there</h1>
         </div>
      );
 }
